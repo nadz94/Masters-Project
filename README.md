@@ -1,7 +1,7 @@
 ## Python Files Description ##
 
-ABM.py = agent based model
-MSA.py = tests for stylized facts
+ABM.py = agent based model.
+MSA.py = tests for stylized facts.
 
 ABM.py and MSA.py are imported into '100 companies from NASDAQ.ipynb' and '100 simulated data sets.ipynb'.
 
