@@ -1,9 +1,12 @@
-##Using the Minority Game Model to Understand Financial Markets##
+#Using the Minority Game Model to Understand Financial Markets#
 
 Built the Minority Game model from game theory using an Agent-Based Simulation via the Python programming 
 language. Converted the output into a series of financial returns and tested them for statistical properties 
 that are present in real world financial returns.
 
+## Report ##
+
+You can read the report from: https://www.academia.edu/30952084/Using_the_Minority_Game_Model_to_Understand_Financial_Markets
 
 ## Python Files Description ##
 
